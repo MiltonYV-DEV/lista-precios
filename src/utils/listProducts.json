@@ -125,7 +125,7 @@
     "categoria": "gaseosa"
   },
   {
-    "nombre": "Fruvi vidirio",
+    "nombre": "Fruvi vidrio",
     "precio": 2.0,
     "categoria": "gaseosa"
   },
@@ -138,6 +138,26 @@
     "nombre": "Valle frugos 350ml",
     "precio": 1.0,
     "categoria": "gaseosa"
+  },
+  {
+    "nombre": "Lays",
+    "precio": 1.8,
+    "categoria": "galleta"
+  },
+  {
+    "nombre": "Doritos",
+    "precio": 2.0,
+    "categoria": "galleta"
+  },
+  {
+    "nombre": "Piqueo snax",
+    "precio": 2.0,
+    "categoria": "galleta"
+  },
+  {
+    "nombre": "Wafer costa",
+    "precio": 2.0,
+    "categoria": "galleta"
   },
   {
     "nombre": "Wafer costa",
