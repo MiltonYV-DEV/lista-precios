@@ -20,7 +20,7 @@ function App() {
 
   return (
     <>
-      <h1 className="text-3xl text-center mt-8 font-bold text-red-500">
+      <h1 className="text-3xl text-center mt-8 font-bold text-red-500/90">
         Danger-Gaming
       </h1>
       <h1 className="text-2xl text-center font-semibold">Lista de precios</h1>
@@ -49,7 +49,7 @@ function App() {
           >
             <div>{producto.nombre}</div>
             <div
-              className="group-hover:scale-125 transition-all text-red-500 font-bold text-4xl"
+              className="group-hover:scale-125 transition-all text-red-500/90 font-bold text-4xl"
               style={{ fontFamily: "Caveat" }}
             >
               s/{producto.precio.toFixed(2)}
