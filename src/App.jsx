@@ -48,7 +48,9 @@ function App() {
             className="flex group justify-between items-center text-xl border-t-1 border-slate-600"
             key={index}
           >
-            <div>{producto.nombre}</div>
+            <div className="group-hover:scale-110 transition-all">
+              {producto.nombre}
+            </div>
             <div
               className="group-hover:scale-125 transition-all text-red-500/80 font-bold text-4xl"
               style={{ fontFamily: "Caveat" }}
