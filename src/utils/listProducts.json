@@ -1,0 +1,227 @@
+[
+  {
+    "nombre": "Coca Cola 2.5 litros descartable",
+    "precio": 10.0,
+    "categoria": "gaseosa"
+  },
+  {
+    "nombre": "Coca Cola o Inka cola 1 litro descartable",
+    "precio": 5.0,
+    "categoria": "gaseosa"
+  },
+  {
+    "nombre": "Coca Cola o Inka Cola 1 ½ litro vidrio",
+    "precio": 6.0,
+    "categoria": "gaseosa"
+  },
+  {
+    "nombre": "Inka Cola 1 litro vidrio",
+    "precio": 5.0,
+    "categoria": "gaseosa"
+  },
+  {
+    "nombre": "Coca Cola o Inka Cola 600ml descartable",
+    "precio": 3.5,
+    "categoria": "gaseosa"
+  },
+  {
+    "nombre": "Pepsi o fanta sabor naranja 500ml",
+    "precio": 2.5,
+    "categoria": "gaseosa"
+  },
+  {
+    "nombre": "Pepsi 2 litros",
+    "precio": 5.5,
+    "categoria": "gaseosa"
+  },
+  {
+    "nombre": "Pepsi 1 litro",
+    "precio": 3.5,
+    "categoria": "gaseosa"
+  },
+  {
+    "nombre": "Pepsi 750ml ",
+    "precio": 2.5,
+    "categoria": "gaseosa"
+  },
+  {
+    "nombre": "Pepsi 500ml",
+    "precio": 2.0,
+    "categoria": "gaseosa"
+  },
+  {
+    "nombre": "Kr litro",
+    "precio": 2.5,
+    "categoria": "gaseosa"
+  },
+  {
+    "nombre": "Kr 350ml",
+    "precio": 1.0,
+    "categoria": "gaseosa"
+  },
+  {
+    "nombre": "Frugos, kris 400ml",
+    "precio": 1.0,
+    "categoria": "gaseosa"
+  },
+  {
+    "nombre": "Cool 550ml",
+    "precio": 1.0,
+    "categoria": "gaseosa"
+  },
+  {
+    "nombre": "Energina 500ml",
+    "precio": 1.0,
+    "categoria": "gaseosa"
+  },
+  {
+    "nombre": "360 grande 450ml",
+    "precio": 3.0,
+    "categoria": "gaseosa"
+  },
+  {
+    "nombre": "360 pequeno 300ml ",
+    "precio": 2.0,
+    "categoria": "gaseosa"
+  },
+  {
+    "nombre": "Agua cielo 1 litro",
+    "precio": 2.0,
+    "categoria": "gaseosa"
+  },
+  {
+    "nombre": "Agua cielo 625ml",
+    "precio": 1.0,
+    "categoria": "gaseosa"
+  },
+  {
+    "nombre": "Agua loa",
+    "precio": 1.0,
+    "categoria": "gaseosa"
+  },
+  {
+    "nombre": "Kero",
+    "precio": 3.0,
+    "categoria": "gaseosa"
+  },
+  {
+    "nombre": "Generade",
+    "precio": 2.0,
+    "categoria": "gaseosa"
+  },
+  {
+    "nombre": "Drink vidrio",
+    "precio": 2.5,
+    "categoria": "gaseosa"
+  },
+  {
+    "nombre": "Drink descartable",
+    "precio": 1.5,
+    "categoria": "gaseosa"
+  },
+  {
+    "nombre": "Powerade 600ml",
+    "precio": 2.5,
+    "categoria": "gaseosa"
+  },
+  {
+    "nombre": "Fruvi vidirio",
+    "precio": 2.0,
+    "categoria": "gaseosa"
+  },
+  {
+    "nombre": "Valle Fresh 500ml",
+    "precio": 1.5,
+    "categoria": "gaseosa"
+  },
+  {
+    "nombre": "Valle frugos 350ml",
+    "precio": 1.0,
+    "categoria": "gaseosa"
+  },
+  {
+    "nombre": "Wafer costa",
+    "precio": 2.0,
+    "categoria": "galleta"
+  },
+  {
+    "nombre": "Wafer mabel",
+    "precio": 2.0,
+    "categoria": "galleta"
+  },
+  {
+    "nombre": "Chips costa, Choco donunts, Tentacion, clasitas",
+    "precio": 1.0,
+    "categoria": "galleta"
+  },
+  {
+    "nombre": "Chocman, Caritas, Casino, Margaritas",
+    "precio": 1.0,
+    "categoria": "galleta"
+  },
+  {
+    "nombre": "Rellenita",
+    "precio": 0.6,
+    "categoria": "galleta"
+  },
+  {
+    "nombre": "Choco Soda",
+    "precio": 1.2,
+    "categoria": "galleta"
+  },
+  {
+    "nombre": "Picaras, Oreo",
+    "precio": 1.0,
+    "categoria": "galleta"
+  },
+  {
+    "nombre": "Santiago, Agua o Vainilla",
+    "precio": 1.5,
+    "categoria": "galleta"
+  },
+  {
+    "nombre": "Mini picaras(sobre)",
+    "precio": 1.5,
+    "categoria": "galleta"
+  },
+  {
+    "nombre": "Picaras, Oreo",
+    "precio": 1.0,
+    "categoria": "galleta"
+  },
+  {
+    "nombre": "Triangulo",
+    "precio": 2.0,
+    "categoria": "galleta"
+  },
+  {
+    "nombre": "Sublime",
+    "precio": 2.0,
+    "categoria": "galleta"
+  },
+  {
+    "nombre": "Princesa",
+    "precio": 2.0,
+    "categoria": "galleta"
+  },
+  {
+    "nombre": "Vizzio(sobre), vizzio(barra)",
+    "precio": 2.0,
+    "categoria": "gaseosa"
+  },
+  {
+    "nombre": "Sapito",
+    "precio": 0.5,
+    "categoria": "galleta"
+  },
+  {
+    "nombre": "Chocolates minis",
+    "precio": 0.6,
+    "categoria": "galleta"
+  },
+  {
+    "nombre": "Bon bon",
+    "precio": 0.5,
+    "categoria": "galleta"
+  }
+]
