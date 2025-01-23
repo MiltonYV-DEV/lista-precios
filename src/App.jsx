@@ -20,7 +20,10 @@ function App() {
 
   return (
     <>
-      <h1 className="text-2xl text-center m-6 font-bold">Lista de precios</h1>
+      <h1 className="text-3xl text-center mt-8 font-bold text-red-500">
+        Danger-Gaming
+      </h1>
+      <h1 className="text-2xl text-center font-semibold">Lista de precios</h1>
       <div className="flex justify-center items-center">
         <input
           type="text"
@@ -41,12 +44,12 @@ function App() {
       <div className="max-w-[600px] mx-auto">
         {filterByCategory.map((producto, index) => (
           <div
-            className="flex justify-between items-center text-xl border-t-1 border-slate-600"
+            className="flex group justify-between items-center text-xl border-t-1 border-slate-600"
             key={index}
           >
             <div>{producto.nombre}</div>
             <div
-              className="text-red-500/80 font-bold text-4xl"
+              className="group-hover:scale-125 transition-all text-red-500 font-bold text-4xl"
               style={{ fontFamily: "Caveat" }}
             >
               s/{producto.precio.toFixed(2)}
