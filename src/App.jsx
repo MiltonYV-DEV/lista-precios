@@ -38,7 +38,8 @@ function App() {
         >
           <option value="">Todos</option>
           <option value="gaseosa">Gaseosa</option>
-          <option value="galleta">galleta</option>
+          <option value="galleta">Galleta</option>
+          <option value="otros">Otros</option>
         </select>
       </div>
       <div className="max-w-[600px] mx-auto">

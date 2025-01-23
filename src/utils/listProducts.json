@@ -50,7 +50,7 @@
     "categoria": "gaseosa"
   },
   {
-    "nombre": "Kr litro",
+    "nombre": "Kr 1 litro",
     "precio": 2.5,
     "categoria": "gaseosa"
   },
@@ -60,7 +60,7 @@
     "categoria": "gaseosa"
   },
   {
-    "nombre": "Frugos, kris 400ml",
+    "nombre": "Frugos, kris 400ml, limonada lemonfresh, Oro, Black",
     "precio": 1.0,
     "categoria": "gaseosa"
   },
@@ -100,6 +100,11 @@
     "categoria": "gaseosa"
   },
   {
+    "nombre": "Agua saborizada Socosani",
+    "precio": 1.5,
+    "categoria": "gaseosa"
+  },
+  {
     "nombre": "Kero",
     "precio": 3.0,
     "categoria": "gaseosa"
@@ -130,7 +135,13 @@
     "categoria": "gaseosa"
   },
   {
-    "nombre": "Valle Fresh 500ml",
+    "nombre": "Fury Energy",
+    "precio": 2.0,
+    "categoria": "gaseosa"
+  },
+
+  {
+    "nombre": "Frugos del Valle Fresh 500ml",
     "precio": 1.5,
     "categoria": "gaseosa"
   },
@@ -175,6 +186,26 @@
     "categoria": "galleta"
   },
   {
+    "nombre": "Ritz",
+    "precio": 1.5,
+    "categoria": "galleta"
+  },
+  {
+    "nombre": "Nik grande",
+    "precio": 1.5,
+    "categoria": "galleta"
+  },
+  {
+    "nombre": "Oreo grande",
+    "precio": 1.5,
+    "categoria": "galleta"
+  },
+  {
+    "nombre": "Genio",
+    "precio": 1.2,
+    "categoria": "galleta"
+  },
+  {
     "nombre": "Wafer costa",
     "precio": 2.0,
     "categoria": "galleta"
@@ -195,12 +226,17 @@
     "categoria": "galleta"
   },
   {
-    "nombre": "Chips costa, Choco donunts, Tentacion, clasitas",
+    "nombre": "Chips costa, Choco donunts, Tentacion, Glasitas, Abas",
     "precio": 1.0,
     "categoria": "galleta"
   },
   {
-    "nombre": "Chocman, Caritas, Casino, Margaritas",
+    "nombre": "Frac, Nik pequeno, Cancun",
+    "precio": 1.0,
+    "categoria": "galleta"
+  },
+  {
+    "nombre": "Chocman, Caritas, Casino, Margaritas, dixy, Maria, kilombo",
     "precio": 1.0,
     "categoria": "galleta"
   },
@@ -268,5 +304,25 @@
     "nombre": "Bon bon",
     "precio": 0.5,
     "categoria": "galleta"
+  },
+  {
+    "nombre": "Hall en barra",
+    "precio": 1.5,
+    "categoria": "galleta"
+  },
+  {
+    "nombre": "Chupetin Globo pop",
+    "precio": 0.5,
+    "categoria": "galleta"
+  },
+  {
+    "nombre": "Caramelos cualquiera 3x",
+    "precio": 0.5,
+    "categoria": "galleta"
+  },
+  {
+    "nombre": "Papel Elite Suave unidad",
+    "precio": 1.2,
+    "categoria": "otros"
   }
 ]
