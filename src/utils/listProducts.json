@@ -145,6 +145,21 @@
     "categoria": "galleta"
   },
   {
+    "nombre": "Lays Ondas",
+    "precio": 1.8,
+    "categoria": "galleta"
+  },
+  {
+    "nombre": "Chetos",
+    "precio": 1.5,
+    "categoria": "galleta"
+  },
+  {
+    "nombre": "Chees tris",
+    "precio": 1.5,
+    "categoria": "galleta"
+  },
+  {
     "nombre": "Doritos",
     "precio": 2.0,
     "categoria": "galleta"
@@ -155,6 +170,11 @@
     "categoria": "galleta"
   },
   {
+    "nombre": "Cuates",
+    "precio": 1.0,
+    "categoria": "galleta"
+  },
+  {
     "nombre": "Wafer costa",
     "precio": 2.0,
     "categoria": "galleta"
@@ -162,6 +182,11 @@
   {
     "nombre": "Wafer costa",
     "precio": 2.0,
+    "categoria": "galleta"
+  },
+  {
+    "nombre": "Galletas Animalitos",
+    "precio": 1.0,
     "categoria": "galleta"
   },
   {
