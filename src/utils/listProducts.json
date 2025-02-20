@@ -15,7 +15,7 @@
     "categoria": "gaseosa"
   },
   {
-    "nombre": "Inka Cola 1 litro vidrio",
+    "nombre": "Coca cola o Inka Cola 1 litro vidrio",
     "precio": 5.0,
     "categoria": "gaseosa"
   },
@@ -61,6 +61,11 @@
   },
   {
     "nombre": "Frugos, kris 400ml, limonada lemonfresh, Oro, Black",
+    "precio": 1.0,
+    "categoria": "gaseosa"
+  },
+  {
+    "nombre": "Chicha lemonfresh",
     "precio": 1.0,
     "categoria": "gaseosa"
   },
@@ -131,7 +136,7 @@
   },
   {
     "nombre": "Fruvi vidrio",
-    "precio": 2.0,
+    "precio": 2.50,
     "categoria": "gaseosa"
   },
   {

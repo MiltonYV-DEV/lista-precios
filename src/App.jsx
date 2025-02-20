@@ -24,7 +24,7 @@ function App() {
         Danger-Gaming
       </h1>
       <h1 className="text-2xl text-center font-semibold">Lista de precios</h1>
-      <div className="flex justify-center items-center">
+      <div className="flex justify-center items-center sticky top-0 bg-slate-900/10 backdrop-blur-md">
         <input
           type="text"
           className="bg-slate-800 p-2 text-white rounded-md  w-[450px] m-5 outline-none"
