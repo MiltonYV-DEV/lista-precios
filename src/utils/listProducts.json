@@ -156,6 +156,11 @@
     "categoria": "gaseosa"
   },
   {
+    "nombre": "Coca cola o Inka cola vidrio pequeño",
+    "precio": 1.0,
+    "categoria": "gaseosa"
+  },
+  {
     "nombre": "Lays",
     "precio": 1.8,
     "categoria": "galleta"
