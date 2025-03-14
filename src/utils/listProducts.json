@@ -51,7 +51,7 @@
   },
   {
     "nombre": "Kr 1 litro",
-    "precio": 2.5,
+    "precio": 3.0,
     "categoria": "gaseosa"
   },
   {
@@ -328,6 +328,11 @@
   {
     "nombre": "Caramelos cualquiera 3x",
     "precio": 0.5,
+    "categoria": "galleta"
+  },
+  {
+    "nombre": "Dixy maria",
+    "precio": 1.0,
     "categoria": "galleta"
   },
   {

@@ -116,11 +116,11 @@ function App() {
 
       {/* Carrito de compras */}
       <div
-        className={`fixed bg-black/30 w-[450px] h-auto top-[20%] rounded-md m-3 flex flex-col justify-between transition-all ease-in ${
+        className={`fixed bg-black/30 w-[400px] h-auto top-[20%] rounded-md m-3 flex flex-col justify-between transition-all ease-in ${
           switchCarrito ? "right-0" : "right-[-500px]"
         }`}
       >
-        <div className="w-[450px] h-[500px] right-0 rounded-md flex flex-col justify-between">
+        <div className="w-[400px] h-[500px] right-0 rounded-md flex flex-col justify-between">
           <button
             className="cursor-pointer absolute right-0 p-3 text-2xl"
             onClick={() => setSwitchCarrito(false)}
