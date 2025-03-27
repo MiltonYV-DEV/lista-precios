@@ -116,11 +116,11 @@ function App() {
 
       {/* Carrito de compras */}
       <div
-        className={`fixed bg-black/30 w-[400px] h-auto top-[20%] rounded-md m-3 flex flex-col justify-between transition-all ease-in ${
+        className={`fixed backdrop-blur-md bg-black/30 w-[350px] h-auto top-[80px] rounded-md m-3 flex flex-col justify-between transition-all ease-in ${
           switchCarrito ? "right-0" : "right-[-500px]"
         }`}
       >
-        <div className="w-[400px] h-[500px] right-0 rounded-md flex flex-col justify-between">
+        <div className="w-[350px] h-[440px] right-0 rounded-md flex flex-col justify-between">
           <button
             className="cursor-pointer absolute right-0 p-3 text-2xl"
             onClick={() => setSwitchCarrito(false)}
@@ -134,7 +134,7 @@ function App() {
           <div className="w-auto h-[85%] rounded-md overflow-y-auto px-3">
             {listaCarrito.map((item) => (
               <div className="flex justify-between items-center">
-                <p className="">{item.nombre}</p>
+                <p className="w-[220px] line-clamp-1 overflow-hidden" alt={item.nombre}>{item.nombre}</p>
                 <p className="text-green-500 text-xl font-bold">
                   {item.cantidad}
                 </p>
