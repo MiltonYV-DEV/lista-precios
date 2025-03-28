@@ -261,11 +261,6 @@
     "categoria": "galleta"
   },
   {
-    "nombre": "Choco Soda",
-    "precio": 1.2,
-    "categoria": "galleta"
-  },
-  {
     "nombre": "Picaras, Oreo",
     "precio": 1.0,
     "categoria": "galleta"
@@ -333,6 +328,16 @@
   {
     "nombre": "Caramelos cualquiera 3x",
     "precio": 0.5,
+    "categoria": "galleta"
+  },
+  {
+    "nombre": "Choko Soda FIELD",
+    "precio": 1.20,
+    "categoria": "galleta"
+  },
+  {
+    "nombre": "Cream Crackers FIELD",
+    "precio": 2.0,
     "categoria": "galleta"
   },
   {
