@@ -20,6 +20,16 @@
     "categoria": "gaseosa"
   },
   {
+    "nombre": "Coca cola o Inka cola vidrio peque√±o",
+    "precio": 1.0,
+    "categoria": "gaseosa"
+  },
+  {
+    "nombre": "Coca cola o Inka cola 400ml vidrio",
+    "precio": 1.5,
+    "categoria": "gaseosa"
+  },
+  {
     "nombre": "Coca Cola o Inka Cola 600ml descartable",
     "precio": 3.5,
     "categoria": "gaseosa"
@@ -152,11 +162,6 @@
   },
   {
     "nombre": "Valle frugos 350ml",
-    "precio": 1.0,
-    "categoria": "gaseosa"
-  },
-  {
-    "nombre": "Coca cola o Inka cola vidrio pequeño",
     "precio": 1.0,
     "categoria": "gaseosa"
   },
