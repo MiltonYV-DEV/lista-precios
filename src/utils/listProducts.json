@@ -176,7 +176,22 @@
     "categoria": "galleta"
   },
   {
+    "nombre": "Lays bolsaza (grande)",
+    "precio": 3.0,
+    "categoria": "galleta"
+  },
+  {
     "nombre": "Lays Ondas",
+    "precio": 1.8,
+    "categoria": "galleta"
+  },
+  {
+    "nombre": "Lays Ondas bolsaza (grande)",
+    "precio": 3.0,
+    "categoria": "galleta"
+  },
+  {
+    "nombre": "Lays Pollo a la brasa",
     "precio": 1.8,
     "categoria": "galleta"
   },
