@@ -120,6 +120,11 @@
     "categoria": "gaseosa"
   },
   {
+    "nombre": "Loa sabores (pina, manzana, etc...)",
+    "precio": 1.0,
+    "categoria": "gaseosa"
+  },
+  {
     "nombre": "Agua saborizada Socosani",
     "precio": 1.5,
     "categoria": "gaseosa"
@@ -151,7 +156,7 @@
   },
   {
     "nombre": "Fruvi vidrio",
-    "precio": 2.50,
+    "precio": 2.5,
     "categoria": "gaseosa"
   },
   {
@@ -232,7 +237,7 @@
   },
   {
     "nombre": "Ritz pequeño",
-    "precio": 1.50,
+    "precio": 1.5,
     "categoria": "galleta"
   },
   {
@@ -362,7 +367,7 @@
   },
   {
     "nombre": "Choko Soda FIELD",
-    "precio": 1.20,
+    "precio": 1.2,
     "categoria": "galleta"
   },
   {
