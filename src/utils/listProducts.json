@@ -121,7 +121,7 @@
   },
   {
     "nombre": "Loa sabores (pina, manzana, etc...)",
-    "precio": 1.0,
+    "precio": 1.5,
     "categoria": "gaseosa"
   },
   {
@@ -197,7 +197,7 @@
   },
   {
     "nombre": "Lays Pollo a la brasa",
-    "precio": 1.8,
+    "precio": 2.0,
     "categoria": "galleta"
   },
   {
