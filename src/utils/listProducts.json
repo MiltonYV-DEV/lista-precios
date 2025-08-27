@@ -176,8 +176,8 @@
     "categoria": "gaseosa"
   },
   {
-    "nombre": "Lays",
-    "precio": 1.8,
+    "nombre": "Lays papas",
+    "precio": 2.0,
     "categoria": "galleta"
   },
   {
@@ -222,7 +222,7 @@
   },
   {
     "nombre": "Piqueo snax",
-    "precio": 2.0,
+    "precio": 2.2,
     "categoria": "galleta"
   },
   {
