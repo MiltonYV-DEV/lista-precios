@@ -181,13 +181,13 @@
     "categoria": "galleta"
   },
   {
-    "nombre": "Lays bolsaza (grande)",
-    "precio": 3.0,
+    "nombre": "Lays Ondas",
+    "precio": 1.8,
     "categoria": "galleta"
   },
   {
-    "nombre": "Lays Ondas",
-    "precio": 1.8,
+    "nombre": "Lays bolsaza (grande)",
+    "precio": 3.0,
     "categoria": "galleta"
   },
   {
@@ -248,6 +248,11 @@
   {
     "nombre": "Oreo grande",
     "precio": 1.5,
+    "categoria": "galleta"
+  },
+  {
+    "nombre": "Dulce de leche Genio",
+    "precio": 1.2,
     "categoria": "galleta"
   },
   {
